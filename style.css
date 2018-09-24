@@ -1,0 +1,28 @@
+.row-slide {
+	height: 200px;
+	background: #FFF;
+	transition: height 350ms ease-in-out;
+}
+
+.slide-up-container {
+	position: absolute;
+}
+
+.row-slide2 {
+	height: 200px;
+	background: #000;
+}
+
+.row-content{
+	height: 400px;
+}
+
+.slide-up {
+	position: relative;
+	width: 100%;
+}
+
+.animation {
+	height: 0;
+	transition: height 350ms ease-in-out;
+}
