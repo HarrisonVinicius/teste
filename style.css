@@ -1,3 +1,17 @@
+.row-content button{
+	background-color: #f58634;
+	color: #FFF;
+}
+
+.orange-row{
+	background-color: #f58634;
+}
+
+.navigation img{
+	height: 46px;
+	width: 65px;
+}
+
 .row-slide {
 	height: 200px;
 	background: #FFF;
@@ -10,7 +24,7 @@
 
 .row-slide2 {
 	height: 200px;
-	background: #000;
+	background: #f58634;
 }
 
 .row-content{
