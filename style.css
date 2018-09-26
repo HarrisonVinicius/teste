@@ -1,42 +1,28 @@
+.--visible{
+	bottom: 0!important;
+}
+
+.slide{
+	position: fixed;
+	background-color: #e97500; 
+	height: 180px;
+	bottom: -180px;
+	width: 100%;
+	transition: all 350ms ease-in-out;
+}
+
 .row-content button{
-	background-color: #f58634;
+	background-color: #e97500;
 	color: #FFF;
 }
 
 .orange-row{
-	background-color: #f58634;
-}
-
-.navigation img{
-	height: 46px;
-	width: 65px;
-}
-
-.row-slide {
-	height: 200px;
-	background: #FFF;
-	transition: height 350ms ease-in-out;
-}
-
-.slide-up-container {
-	position: absolute;
-}
-
-.row-slide2 {
-	height: 200px;
-	background: #f58634;
+	background-color: #e97500;
 }
 
 .row-content{
 	height: 400px;
 }
 
-.slide-up {
-	position: relative;
-	width: 100%;
-}
 
-.animation {
-	height: 0;
-	transition: height 350ms ease-in-out;
-}
+
