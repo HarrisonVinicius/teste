@@ -1,0 +1,33 @@
+$themecolor: #e97500;
+
+
+.--visible{
+	bottom: 0!important;
+}
+
+.slide{
+	position: fixed;
+	background-color: $themecolor; 
+	height: 180px;
+	bottom: -180px;
+	width: 100%;
+	transition: all 350ms ease-in-out;
+}
+
+.row-content button{
+	background-color: $themecolor;
+	color: #FFF;
+}
+
+.orange-row{
+	background-color: $themecolor;
+}
+
+.row-content{
+	height: 400px;
+}
+
+.navbar button{
+    background-color: $themecolor;
+
+}

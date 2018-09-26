@@ -1,28 +1,25 @@
-.--visible{
-	bottom: 0!important;
-}
+.--visible {
+  bottom: 0 !important; }
 
-.slide{
-	position: fixed;
-	background-color: #e97500; 
-	height: 180px;
-	bottom: -180px;
-	width: 100%;
-	transition: all 350ms ease-in-out;
-}
+.slide {
+  position: fixed;
+  background-color: #e97500;
+  height: 180px;
+  bottom: -180px;
+  width: 100%;
+  transition: all 350ms ease-in-out; }
 
-.row-content button{
-	background-color: #e97500;
-	color: #FFF;
-}
+.row-content button {
+  background-color: #e97500;
+  color: #FFF; }
 
-.orange-row{
-	background-color: #e97500;
-}
+.orange-row {
+  background-color: #e97500; }
 
-.row-content{
-	height: 400px;
-}
+.row-content {
+  height: 400px; }
 
+.navbar button {
+  background-color: #e97500; }
 
-
+/*# sourceMappingURL=style.css.map */
